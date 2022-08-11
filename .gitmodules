@@ -1,3 +1,6 @@
 [submodule "libraries/kicad-ESP8266"]
 	path = libraries/kicad-ESP8266
 	url = git@github.com:jdunmire/kicad-ESP8266.git
+[submodule "templates/kicad_templates"]
+	path = templates/kicad_templates
+	url = git@github.com:sethhillbrand/kicad_templates.git
