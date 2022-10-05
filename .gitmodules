@@ -4,3 +4,6 @@
 [submodule "templates/kicad_templates"]
 	path = templates/kicad_templates
 	url = git@github.com:sethhillbrand/kicad_templates.git
+[submodule "libraries/Panelization.pretty"]
+	path = libraries/Panelization.pretty
+	url = git@github.com:madworm/Panelization.pretty.git
